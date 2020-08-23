@@ -1,1 +1,5 @@
-
+Como Vantagens de uso do GIT foi entendo os seguintes pontos:
+Maior velocidade nos processos devido os mesmos serem operados em ambiente local sem a necessidade de conectar a todo momento com o servidor para um commit por exemplo;
+Possibilita o trabalho off-line necessitando somente de conexão com rede;
+Faz com que todo o trabalho seja individual sem a necessidade de interferência entre desenvolvedores;
+Traz mais confiabilidade pois o sistema é centralizado, permite que todo o trabalho possa ser concluído individualmente  e distribuído com isso criando um paralelismo nas atividades que podem ser combinadas e gerado um projeto final com mais rapidez, também posso destacar que custos com servidor como repositório central não se faz necessário, distribuindo a carga.
